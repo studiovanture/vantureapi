@@ -1,0 +1,8 @@
+name: VantureAPI
+version: '${project.version}'
+main: me.vanturestudio.vantureapi.VantureAPI
+api-version: '1.13'
+load: STARTUP
+authors: [vanturestudio, mintytc]
+description: Main API for the Vanture Series plugins
+website: https://vanturestudio.com/spigot/vantureapi
